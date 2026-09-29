@@ -1,0 +1,8 @@
+{
+  "name": "WebBrief Lao - ລະບົບເກັບກຳຄວາມຕ້ອງການສ້າງເວັບໄຊ",
+  "description": "ລະບົບເກັບກຳຂໍ້ມູນ ຄວາມຕ້ອງການ ແລະ ສະໄຕລ໌ການສ້າງເວັບໄຊຂອງລູກຄ້າ ເພື່ອການອອກແບບແລະພັດທະນາຕາມມາດຕະຖານສາກົນ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
